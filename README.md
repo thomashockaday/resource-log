@@ -1,6 +1,11 @@
 # Resource Log
 A chronological collection of development resources I have learned from. The best are in bold.
 
+## 29th August 2018
+ - Big O Notation — Simply explained: [https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174](https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174)
+ - Binary Search: https://www.geeksforgeeks.org/binary-search/
+ - **A quick introduction to web security**: [https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41](https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41)
+
 ## 25th August 2018
  - 3 simple rules that will help you become a Git master: [https://www.freecodecamp.org/news/quincylarson/master-git-and-github-advanced-topics--pkuy9lG19](https://www.freecodecamp.org/news/quincylarson/master-git-and-github-advanced-topics--pkuy9lG19)
  - CSS Illustration #1: Bicycle: [https://codepen.io/AlbertFeynman/pen/pZxPOV](https://codepen.io/AlbertFeynman/pen/pZxPOV)
