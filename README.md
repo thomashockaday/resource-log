@@ -1,6 +1,11 @@
 # Resource Log
 A chronological collection of development resources I have learned from. The best are in bold.
 
+## 30th August 2018
+ - **Getting Started with Babel**: [https://www.youtube.com/watch?v=ahh65GQz74g](https://www.youtube.com/watch?v=ahh65GQz74g)
+ - New Variables in ES6: [https://www.youtube.com/watch?v=xaxV1acP1Po](https://www.youtube.com/watch?v=xaxV1acP1Po)
+ - **Unit testing with PHPUnit: Setting up PHPUnit (2/10)**: [https://www.youtube.com/watch?v=cQucsmbOkpE](https://www.youtube.com/watch?v=cQucsmbOkpE)
+
 ## 29th August 2018
  - Big O Notation — Simply explained: [https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174](https://medium.freecodecamp.org/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174)
  - Binary Search: https://www.geeksforgeeks.org/binary-search/
