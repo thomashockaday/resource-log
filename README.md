@@ -1,6 +1,11 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 8th September 2018
+ - The CodePen Spark - Magic, Mountains and Maps: [https://codepen.io/spark/92](https://codepen.io/spark/92)
+ - The CodePen Spark - Stamps, Sprints and splits: [https://codepen.io/spark/91](https://codepen.io/spark/91)
+ - JavaScript Closures with Loops: [https://www.youtube.com/watch?v=oCmLy7ecQRU](https://www.youtube.com/watch?v=oCmLy7ecQRU)
+
 ## 1st September 2018
  - **Getting Started with Babel**: [https://www.youtube.com/watch?v=ahh65GQz74g](https://www.youtube.com/watch?v=ahh65GQz74g)
  - New Variables in ES6: [https://www.youtube.com/watch?v=xaxV1acP1Po](https://www.youtube.com/watch?v=xaxV1acP1Po)
