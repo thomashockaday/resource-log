@@ -5,6 +5,9 @@ A chronological collection of development resources I have learned from, sorted 
  - The CodePen Spark - Magic, Mountains and Maps: [https://codepen.io/spark/92](https://codepen.io/spark/92)
  - The CodePen Spark - Stamps, Sprints and splits: [https://codepen.io/spark/91](https://codepen.io/spark/91)
  - JavaScript Closures with Loops: [https://www.youtube.com/watch?v=oCmLy7ecQRU](https://www.youtube.com/watch?v=oCmLy7ecQRU)
+ - Webpack or Browserify & Gulp: Which Is Better?: [https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better](https://www.toptal.com/front-end/webpack-browserify-gulp-which-is-better)
+ - **Webpack 4 Tutorial: from 0 Conf to Production Mode**: [https://www.valentinog.com/blog/webpack-tutorial/](https://www.valentinog.com/blog/webpack-tutorial/)
+ - Tutorial: How to switch from Gulp to webpack (updated to webpack4): [https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/#Switching_from_Gulp_to_Webpack_configuring_the_project](https://www.valentinog.com/blog/from-gulp-to-webpack-4-tutorial/#Switching_from_Gulp_to_Webpack_configuring_the_project)
 
 ## 1st September 2018
  - **Getting Started with Babel**: [https://www.youtube.com/watch?v=ahh65GQz74g](https://www.youtube.com/watch?v=ahh65GQz74g)
