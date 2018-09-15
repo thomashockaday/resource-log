@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 15th September 2018
+ - AI Learns to play Hill Climb Racing || Part 1 | Making the Game: [https://www.youtube.com/watch?v=BP6xtp_9UME&t=495s](https://www.youtube.com/watch?v=BP6xtp_9UME&t=495s)
+
 ## 8th September 2018
  - The CodePen Spark - Magic, Mountains and Maps: [https://codepen.io/spark/92](https://codepen.io/spark/92)
  - The CodePen Spark - Stamps, Sprints and splits: [https://codepen.io/spark/91](https://codepen.io/spark/91)
