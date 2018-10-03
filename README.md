@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 6th October 2018
+ - Pure and Higher Order Functions: [https://www.youtube.com/watch?v=vNKxWqMbNpY](https://www.youtube.com/watch?v=vNKxWqMbNpY)
+
 ## 15th September 2018
  - AI Learns to play Hill Climb Racing || Part 1 | Making the Game: [https://www.youtube.com/watch?v=BP6xtp_9UME&t=495s](https://www.youtube.com/watch?v=BP6xtp_9UME&t=495s)
 
