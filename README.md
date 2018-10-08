@@ -1,6 +1,10 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 13th October 2018
+ - Why you learn the most when you feel like you’re struggling as a developer: [https://medium.freecodecamp.org/7513327c8ee4](https://medium.freecodecamp.org/7513327c8ee4)
+ - How do computers and the internet work? - Computer Science Basics: [https://www.youtube.com/watch?v=AV_VYsJnHQQ](https://www.youtube.com/watch?v=AV_VYsJnHQQ)
+
 ## 6th October 2018
  - Pure and Higher Order Functions: [https://www.youtube.com/watch?v=vNKxWqMbNpY](https://www.youtube.com/watch?v=vNKxWqMbNpY)
 
