@@ -3,7 +3,9 @@ A chronological collection of development resources I have learned from, sorted 
 
 ## 13th October 2018
  - Why you learn the most when you feel like you’re struggling as a developer: [https://medium.freecodecamp.org/7513327c8ee4](https://medium.freecodecamp.org/7513327c8ee4)
- - How do computers and the internet work? - Computer Science Basics: [https://www.youtube.com/watch?v=AV_VYsJnHQQ](https://www.youtube.com/watch?v=AV_VYsJnHQQ)
+ - **How do computers and the internet work? - Computer Science Basics**: [https://www.youtube.com/watch?v=AV_VYsJnHQQ](https://www.youtube.com/watch?v=AV_VYsJnHQQ)
+ - **Creating Horizontal Scrolling Containers the Right Way (CSS Grid)**: [https://medium.com/@dannievinther/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585](https://medium.com/@dannievinther/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
+ - The Codepen Spark - Pumpkins, Planets and Position: [https://codepen.io/spark/96](https://codepen.io/spark/96)
 
 ## 6th October 2018
  - Pure and Higher Order Functions: [https://www.youtube.com/watch?v=vNKxWqMbNpY](https://www.youtube.com/watch?v=vNKxWqMbNpY)
