@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 20th October 2018
+ - CSS Border-Radius Can Do That?: [https://9elements.com/io/css-border-radius/](https://9elements.com/io/css-border-radius/)
+
 ## 13th October 2018
  - Why you learn the most when you feel like you’re struggling as a developer: [https://medium.freecodecamp.org/7513327c8ee4](https://medium.freecodecamp.org/7513327c8ee4)
  - **How do computers and the internet work? - Computer Science Basics**: [https://www.youtube.com/watch?v=AV_VYsJnHQQ](https://www.youtube.com/watch?v=AV_VYsJnHQQ)
