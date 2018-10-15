@@ -4,6 +4,7 @@ A chronological collection of development resources I have learned from, sorted 
 ## 20th October 2018
  - CSS Border-Radius Can Do That?: [https://9elements.com/io/css-border-radius/](https://9elements.com/io/css-border-radius/)
  - **npm vs Yarn – Which Package Manager Should You Use?**: [https://www.keycdn.com/blog/npm-vs-yarn](https://www.keycdn.com/blog/npm-vs-yarn)
+ - The Codepen Spark - Plaid, Pythons, and Porygons: [https://codepen.io/spark/98](https://codepen.io/spark/98)
 
 ## 13th October 2018
  - Why you learn the most when you feel like you’re struggling as a developer: [https://medium.freecodecamp.org/7513327c8ee4](https://medium.freecodecamp.org/7513327c8ee4)
