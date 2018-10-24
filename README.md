@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 27th October 2018
+ - CSS Transparency and Opacity: [https://www.youtube.com/watch?v=7SinNf8IDtc](https://www.youtube.com/watch?v=7SinNf8IDtc)
+
 ## 20th October 2018
  - CSS Border-Radius Can Do That?: [https://9elements.com/io/css-border-radius/](https://9elements.com/io/css-border-radius/)
  - **npm vs Yarn – Which Package Manager Should You Use?**: [https://www.keycdn.com/blog/npm-vs-yarn](https://www.keycdn.com/blog/npm-vs-yarn)
