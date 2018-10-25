@@ -3,6 +3,7 @@ A chronological collection of development resources I have learned from, sorted 
 
 ## 27th October 2018
  - CSS Transparency and Opacity: [https://www.youtube.com/watch?v=7SinNf8IDtc](https://www.youtube.com/watch?v=7SinNf8IDtc)
+ - CSS Angled Backgrounds: [https://www.youtube.com/watch?v=CgICEi-ESD8](https://www.youtube.com/watch?v=CgICEi-ESD8)
 
 ## 20th October 2018
  - CSS Border-Radius Can Do That?: [https://9elements.com/io/css-border-radius/](https://9elements.com/io/css-border-radius/)
