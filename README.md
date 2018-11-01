@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 3rd November 2018
+ - **Learn Docker in 12 Minutes**: [https://www.youtube.com/watch?v=YFl2mCHdv24](https://www.youtube.com/watch?v=YFl2mCHdv24)
+
 ## 27th October 2018
  - CSS Transparency and Opacity: [https://www.youtube.com/watch?v=7SinNf8IDtc](https://www.youtube.com/watch?v=7SinNf8IDtc)
  - CSS Angled Backgrounds: [https://www.youtube.com/watch?v=CgICEi-ESD8](https://www.youtube.com/watch?v=CgICEi-ESD8)
