@@ -1,6 +1,9 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 10th November - 1st December 2018
+ - Travelling! 
+
 ## 3rd November 2018
  - **Learn Docker in 12 Minutes**: [https://www.youtube.com/watch?v=YFl2mCHdv24](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
