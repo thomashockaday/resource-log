@@ -1,6 +1,17 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 8th December 2018
+ - An Introduction to CSS Shapes: [https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
+ - What is a quantum computer?: [https://medium.freecodecamp.org/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365](https://medium.freecodecamp.org/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365)
+ - The CodePen Spark - Mines, Mazes and Morphing: [https://codepen.io/spark/99](https://codepen.io/spark/99)
+ - The CodePen Spark - Squiggles, Sketches and Stars: [https://codepen.io/spark/100](https://codepen.io/spark/100)
+ - The CodePen Spark - Beats, Boxes and Barcodes: [https://codepen.io/spark/101](https://codepen.io/spark/101)
+ - **The CodePen Spark - Floating, Flying and Flipping**: [https://codepen.io/spark/102](https://codepen.io/spark/102)
+ - The CodePen Spark - Chats, Charts and Coffee: [https://codepen.io/spark/103](https://codepen.io/spark/103)
+ - The CodePen Spark - Stories, Spiders and Sheets: [https://codepen.io/spark/104](https://codepen.io/spark/104)
+ - **Intro to Computer Networks - Crash Course**: [https://www.youtube.com/watch?v=WO6P92v61y4](https://www.youtube.com/watch?v=WO6P92v61y4)
+
 ## 10th November - 1st December 2018
  - Travelling! 
 
