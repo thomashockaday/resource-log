@@ -1,6 +1,17 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 22nd September 2018
+ - Web Terms 101: [https://domains.google/learn/the-difference-between-a-url-domain-website-more/#/](https://domains.google/learn/the-difference-between-a-url-domain-website-more/#/)
+
+## 15th December 2018
+ - Speeding up unit tests in PHP: [https://chrisduell.com/speeding-up-unit-tests-in-php/](https://chrisduell.com/speeding-up-unit-tests-in-php/)
+ - PHPUnit Accelerator: [https://github.com/mybuilder/phpunit-accelerator](https://github.com/mybuilder/phpunit-accelerator)
+ - Parallel PHPUnit Tests: [https://tech.mybuilder.com/parallel-phpunit-tests/](https://tech.mybuilder.com/parallel-phpunit-tests/)
+ - Faster PHPUnit: [http://kriswallsmith.net/post/18029585104/faster-phpunit](http://kriswallsmith.net/post/18029585104/faster-phpunit)
+ - Faster PHPunit Tests: [https://medium.com/@fuchodeveloper/faster-phpunit-tests-6778b151321b](https://medium.com/@fuchodeveloper/faster-phpunit-tests-6778b151321b)
+ - Faster Tests in PHP: [https://davedevelopment.co.uk/2016/11/16/faster-tests-in-php-organising-test-suites.html](https://davedevelopment.co.uk/2016/11/16/faster-tests-in-php-organising-test-suites.html)
+
 ## 8th December 2018
  - An Introduction to CSS Shapes: [https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
  - What is a quantum computer?: [https://medium.freecodecamp.org/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365](https://medium.freecodecamp.org/what-is-a-quantum-computer-explained-with-a-simple-example-b8f602035365)
