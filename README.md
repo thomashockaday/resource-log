@@ -1,7 +1,12 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
-## 22nd September 2018
+## 29th December 2018
+ - Building Your Own React Clone in Five Easy Steps: [https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
+ - Docker: Performance tuning for volume mounts (shared filesystems): [https://docs.docker.com/docker-for-mac/osxfs-caching/](https://docs.docker.com/docker-for-mac/osxfs-caching/)
+ - Create a Platformer Game with JavaScript - Full Tutorial: [https://www.youtube.com/watch?v=w-OKdSHRlfA](https://www.youtube.com/watch?v=w-OKdSHRlfA)
+
+## 22nd December 2018
  - Web Terms 101: [https://domains.google/learn/the-difference-between-a-url-domain-website-more/#/](https://domains.google/learn/the-difference-between-a-url-domain-website-more/#/)
 
 ## 15th December 2018
