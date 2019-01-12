@@ -3,6 +3,7 @@ A chronological collection of development resources I have learned from, sorted 
 
 ## 12th January 2019
  - The CodePen Spark - Painting, Portraits, and Pastry: [https://codepen.io/spark/109](https://codepen.io/spark/109)
+ - The CodePen Spark - Flames, Flips, and Firsts: [https://codepen.io/spark/109](https://codepen.io/spark/110)
 
 ## 5th January 2019
  - The All Powerful Front End Developer - Chris Coyier: [https://www.youtube.com/watch?v=vXJpOHz3_sY](https://www.youtube.com/watch?v=vXJpOHz3_sY)
