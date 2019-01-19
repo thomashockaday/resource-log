@@ -1,6 +1,11 @@
 # Resource Log
 A chronological collection of development resources I have learned from, sorted by week end date. The best are in bold.
 
+## 19th January 2019
+ - Learn Web Development with Vegibit: [https://leanpub.com/learnwebdevelopmentwithvegibit](https://leanpub.com/learnwebdevelopmentwithvegibit)
+ - **Law of Demeter:** [https://en.wikipedia.org/wiki/Law_of_Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
+ - The CodePen Spark - Running, Loading, and Fusing: [https://codepen.io/spark/109](https://codepen.io/spark/110)
+
 ## 12th January 2019
  - The CodePen Spark - Painting, Portraits, and Pastry: [https://codepen.io/spark/109](https://codepen.io/spark/109)
  - The CodePen Spark - Flames, Flips, and Firsts: [https://codepen.io/spark/109](https://codepen.io/spark/110)
